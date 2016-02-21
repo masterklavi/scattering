@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * Functions to work with the command line
+ */
+
+
+/**
  * Input from the command line
  * 
  * @param callable $filter Must to return a boolean value
